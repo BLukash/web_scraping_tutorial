@@ -1,4 +1,4 @@
-# web_scraping_tutorial
+# Web scraping tutorial
 Tutorial on web scraping using Python. It contains theoretical information in English and Ukrainian languages. Links to the code examples are inside the text as well as in the repository.
 Please, if you have found some mistakes, want to improve something, etc., feel free to contact me via email (bohdan.lukashchuk@gmail.com) or GitHub issues here in the repository.
 In case of any sufficient changes, fixes, new part releases, I will reflect them in README.

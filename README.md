@@ -10,4 +10,5 @@ The idea to start creating this tutorial came to me after participating in the '
 
 Contacts:
 bohdan.lukashchuk@gmail.com
+
 https://www.linkedin.com/in/blukash/

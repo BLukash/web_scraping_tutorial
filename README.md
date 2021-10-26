@@ -6,6 +6,7 @@ In case of any sufficient changes, fixes, new part releases, I will reflect them
 26(27).10.21 - part 1 release
 
 Acknowledgments:
+
 The idea to start creating this tutorial came to me after participating in the 'Web Scraping with Python' workshop by Yuliia Dukach (Texty.org.ua)
 
 Contacts:

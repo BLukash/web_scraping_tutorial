@@ -9,6 +9,7 @@ Acknowledgments:
 The idea to start creating this tutorial came to me after participating in the 'Web Scraping with Python' workshop by Yuliia Dukach (Texty.org.ua)
 
 Contacts:
+
 bohdan.lukashchuk@gmail.com
 
 https://www.linkedin.com/in/blukash/
